@@ -9,7 +9,8 @@ In This circuit, we measure all parameters in analog form we need to first conve
 
 Circuit Diagram 
 
-<img width="603" alt="111" src="https://github.com/PrateekSinghRajput/Solar-Voltage-Tracker-Using-Arduino/assets/92904643/c3e6ed90-f0a5-4fec-9ab9-f588f2ec7fc8">
+![11111](https://github.com/PrateekSinghRajput/Solar-Voltage-Tracker-Using-Arduino/assets/92904643/24374b65-8549-4632-aa97-33cfd892cb30)
+
 
 
 Website:- https://justdoelectronics.com
